@@ -1,4 +1,5 @@
 # Hey, I'm San! 
+
 > Enthusiastic about technology, always seeking new challenges.
 > Currently developing practical solutions with Python while constantly learning.
 >
@@ -6,9 +7,7 @@
 
 ###
 
-<img align="right" height="150" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeDRjMmRibnhvMDQ1ZGt0M3h0cHEwMmI5MGJ0cTUwMmdpMzV0czkwdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KAq5w47R9rmTuvWOWa/giphy.gif"  />
 
-###
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
